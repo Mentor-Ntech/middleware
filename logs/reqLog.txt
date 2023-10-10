@@ -1,0 +1,57 @@
+20231008	19:01:11	bba0588f-55da-4aaf-b7b2-2096deeef464	/index	GET
+20231008	19:01:11	83674538-8e6a-48e5-b0bf-471c29a35c54	/css/style.css	GET
+20231008	19:01:12	b2d20d2a-2167-4607-ac47-347f2a54ecee	/favicon.ico	GET
+20231008	19:01:30	9e784b1a-5ead-40d3-8d66-34dc50763950	/sub-page	GET
+20231008	19:01:30	430c6d29-2526-4e47-8e63-4dba2e68a50a	/css/style.css	GET
+20231008	19:01:52	66da3754-9254-4c7a-96c9-9a75d864bc40	/new-page	GET
+20231008	19:01:52	77d2da5c-ce2a-40c4-9734-e5569242fda7	/img/img1.jpg	GET
+20231008	19:01:52	fa996d5e-0927-4db8-87d0-b253fffbb80b	/css/style.css	GET
+20231009	08:27:43	9bc5a539-6a84-4a86-a154-c03cdb3b37a8	OPTIONS	https://www.google.com, /
+20231009	08:27:43	22881889-09c7-4534-9044-e170cf29166c	GET	https://www.google.com, /
+20231009	08:27:58	79149de3-b58b-478d-a5e5-b0638fc18ebb	OPTIONS	https://www.google.com, /
+20231009	08:27:58	e1c1209f-b168-4e1b-a3c2-e0216b5d01a2	GET	https://www.google.com, /
+20231009	08:29:38	c2b9f3c8-ef86-4c9f-9ac7-b664d856ebae	OPTIONS	https://www.google.com, /
+20231009	08:29:38	56516e43-b4de-4fa6-b2e6-052434cdc571	GET	https://www.google.com, /
+20231009	08:31:00	63a6c9d9-9ef1-47cd-b003-ddeb5f7a4b4e	OPTIONS	https://www.google.com, /
+20231009	08:31:00	d892b891-2ed5-4713-9301-b0417e12544b	GET	https://www.google.com, /
+20231009	08:40:59	acf5fe8b-cbee-4b4f-82ad-0cd3e3a73c45	OPTIONS	https://www.google.com, /
+20231009	08:40:59	d3bc77d2-268b-4785-9f20-80f131e410f5	GET	https://www.google.com, /
+20231009	08:43:00	7e193efb-cff0-4cc6-9093-a1a41cda3873	OPTIONS	https://www.google.com, /
+20231009	08:43:00	99b6db0e-b04a-44cd-8c14-123d3ec297ce	GET	https://www.google.com, /
+20231009	13:31:45	f16c14e0-8c06-4247-9989-857919ff1872	GET	undefined	/
+20231009	13:31:45	c91e3def-e407-4479-a169-d696f408aca2	GET	undefined	/css/style.css
+20231009	13:31:46	de034604-c5f0-489a-87bf-46815d64c66a	GET	undefined	/favicon.ico
+20231009	13:44:11	58308dc8-0a46-4e40-b93b-97e941fca72c	GET	undefined	/
+20231009	13:44:11	4e32b29f-c1ce-4095-8d49-5c7f99615052	GET	undefined	/css/style.css
+20231009	13:44:13	744a917c-6001-4486-beba-b70bf14dcf72	GET	undefined	/
+20231009	13:44:13	01f8be1d-4ecb-4e8d-aaf6-d950053880ec	GET	undefined	/css/style.css
+20231009	13:44:14	94db044b-54c3-43f9-96dd-e3b67e5d9090	GET	undefined	/
+20231009	13:44:14	35bf8798-9ac9-40d6-9486-f2cb3231e72b	GET	undefined	/css/style.css
+20231009	13:44:31	a92e476e-46e6-4cc8-9924-c7482920faa0	GET	undefined	/
+20231009	13:44:31	8ef92172-9a14-48ed-816d-13cc0cb65c0a	GET	undefined	/css/style.css
+20231009	13:44:43	f6301209-a58c-4b2d-a479-98e948417b78	OPTIONS	https://www.google.com	/
+20231009	13:44:43	50320103-eacb-4382-bce9-c41383662975	GET	https://www.google.com	/
+20231009	13:45:10	a5632118-b0a4-4d77-bac1-6df258524ffd	GET	undefined	/
+20231009	13:45:10	40251f5b-58bb-4be6-ab92-4f458069e410	GET	undefined	/css/style.css
+20231009	13:45:11	2ab9ebb9-8577-4cac-a9a7-409a96f8a0e9	GET	undefined	/
+20231009	13:45:11	cfe6ec90-6308-4f7e-9ac6-aa4eaf2e6ca3	GET	undefined	/css/style.css
+20231009	13:46:05	be0b41c5-86b4-48ae-bccb-834f5f864eca	GET	undefined	/
+20231009	13:46:05	23b35360-433d-4f50-926f-b6b330ec4561	GET	undefined	/css/style.css
+20231009	13:49:44	5c7a46c9-2f99-40d3-9739-0e8141ae5fc0	GET	undefined	/
+20231009	13:49:44	e579860c-2688-4ac1-a833-b3d4240da866	GET	undefined	/css/style.css
+20231009	13:49:45	b93db634-8c23-480b-933b-924cb36c5e7b	GET	undefined	/
+20231009	13:49:45	79081413-3454-4a25-976c-184b6bf0c747	GET	undefined	/css/style.css
+20231009	13:49:45	61ecda44-7e5d-46e7-b00f-c86b05072282	GET	undefined	/
+20231009	13:49:45	45e114cc-9475-46fd-97ab-a10943374b1f	GET	undefined	/css/style.css
+20231009	13:50:40	7909990c-55d2-48c0-9d76-955c8a23aedc	GET	undefined	/
+20231009	13:50:40	c5bb064f-f94d-4cfd-bba7-8c15f2699eb8	GET	undefined	/css/style.css
+20231009	13:50:46	eb2d6ce2-c180-4628-8747-a411154320fb	OPTIONS	https://www.google.com	/
+20231009	13:50:46	8681f92d-98cd-471f-96f7-1742067827ac	GET	https://www.google.com	/
+20231009	13:51:58	6257e49c-99b9-4e1f-8830-14339dbed4ac	GET	undefined	/
+20231009	15:49:00	b315ce70-fd1b-40bb-b53b-0888a2749783	OPTIONS	https://www.google.com	/
+20231009	15:49:00	101105b3-836b-4e61-b644-5e4701e61154	GET	https://www.google.com	/
+20231009	15:53:52	8b3c3aea-b2ef-450e-b77b-740a1047212b	OPTIONS	https://www.google.com	/
+20231009	15:53:52	a9ef5fed-3369-4dc8-8662-5e10e6c1a03d	GET	https://www.google.com	/
+20231010	09:03:00	05707399-e3fa-4290-bc60-f7262ce03385	GET	undefined	/
+20231010	09:03:00	253745a0-58b4-46d9-9e10-7d67faa0928e	GET	undefined	/css/style.css
+20231010	09:03:01	18cb0ff4-9d9e-4e82-9f34-d19fb01117d9	GET	undefined	/favicon.ico
